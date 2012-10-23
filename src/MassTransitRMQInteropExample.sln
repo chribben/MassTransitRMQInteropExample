@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTRMQInterop.Producer", "Producer\MTRMQInterop.Producer.csproj", "{2029A535-B5EC-49AB-B8E5-764E56072153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTRMQInterop.Consumer", "Consumer\MTRMQInterop.Consumer.csproj", "{B882CAC6-A4FB-4174-8C48-5E85370B0D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{8557086A-A6DB-481F-B929-8DE005ECBE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2029A535-B5EC-49AB-B8E5-764E56072153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2029A535-B5EC-49AB-B8E5-764E56072153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2029A535-B5EC-49AB-B8E5-764E56072153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2029A535-B5EC-49AB-B8E5-764E56072153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B882CAC6-A4FB-4174-8C48-5E85370B0D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B882CAC6-A4FB-4174-8C48-5E85370B0D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B882CAC6-A4FB-4174-8C48-5E85370B0D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B882CAC6-A4FB-4174-8C48-5E85370B0D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8557086A-A6DB-481F-B929-8DE005ECBE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8557086A-A6DB-481F-B929-8DE005ECBE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8557086A-A6DB-481F-B929-8DE005ECBE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8557086A-A6DB-481F-B929-8DE005ECBE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

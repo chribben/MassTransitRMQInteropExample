@@ -1,6 +1,18 @@
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
-
-# mstest test results
+build/
+bin/
+obj/
+packages/
+*.csproj.user
+*ReSharper.user
+_ReSharper*
+*.ReSharper
+Thumbs.db
+*.cache
+*.nupkg
+*.suo
+src/*AssemblyInfo.cs
 TestResults
+AppPackages/
+TestResults/
+
